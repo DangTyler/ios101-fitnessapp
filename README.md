@@ -99,11 +99,14 @@ Reppy is a visually-driven mobile fitness app that helps users track workouts, m
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]  
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![image](https://github.com/user-attachments/assets/cfb141b5-0775-45d9-8bf0-eafe55bfc4d1)
+
 
 ### [BONUS] Digital Wireframes & Mockups  
-- Designed in Figma using modern dark UI and orange highlight accents  
+- Designed in Figma using modern dark UI and orange highlight accents
+
+![image](https://github.com/user-attachments/assets/e66b0422-3c3f-4189-b63c-d1a8dee63e27)
+
 
 ### [BONUS] Interactive Prototype  
 - [Link your Figma prototype if created]
