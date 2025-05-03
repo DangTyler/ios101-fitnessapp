@@ -46,9 +46,9 @@ Reppy is a visually-driven mobile fitness app that helps users track workouts, m
 
 ---
 
-### 2. Screen Archetypes
+### 2. Screen Archetypes (updated)
 
-- [ ] **Home Dashboard**  
+- [X] **Home Dashboard**  
   * View personalized greeting  
   * See workout streak, weekly goal, and earned points  
   * View today's workout  
@@ -56,22 +56,22 @@ Reppy is a visually-driven mobile fitness app that helps users track workouts, m
   * Read static coach update  
   * Navigate via bottom tab bar  
 
-- [ ] **Training Regimen**  
+- [X] **Training Regimen**  
   * View assigned exercises with sets, reps, rest  
   * [Optional] Check off exercises  
   * Tap “Start Workout”  
 
-- [ ] **Heart Rate Detection**  
+- [X] **Heart Rate Detection**  
   * Instructions for placing finger on flashlight  
   * Begin scan, see animated pulse  
   * Display BPM  
 
-- [ ] **Guided Workout**  
+- [X] **Guided Workout**  
   * Show current exercise, set count  
   * Rest timer or rep counter  
   * “Next” or “Complete Set”  
 
-- [ ] **Trainer Chat (Static)**  
+- [X] **Trainer Chat (Static)**  
   * Read 1–2 hardcoded messages  
   * Optional input bar for reply  
 
